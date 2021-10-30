@@ -96,7 +96,7 @@ def funhelp(update, context):
  ➻ `/roll`*:* Roll a dice & get you a number
   ═ ═ ═ ═ ═ ═ ═ ═ ═ ═
  '''
-    update.effective_message.reply_photo("https://telegra.ph/file/1d77962382170772a14d1.jpg", help_string, parse_mode=ParseMode.MARKDOWN)
+    update.effective_message.reply_photo("https://telegra.ph/file/5682c52bcc318954ab77f.jpg", help_string, parse_mode=ParseMode.MARKDOWN)
 
 
 RUNS_HANDLER = CommandHandler("runs", runs)
