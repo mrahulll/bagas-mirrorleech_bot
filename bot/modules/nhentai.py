@@ -96,8 +96,8 @@ def nhentai_data(noombers):
     post = telegraph.create_page(
         f"{title}",
         html_content=post_content,
-        author_name="Bot Sep 21 Publik - [No Bokep]", 
-        author_url="https://t.me/sepmirrorleech21_bot"
+        author_name="Bagas Bot Mirror & Leech", 
+        author_url="https://t.me/uzumaki_naruto4backup"
     )
     return title,tags,artist,total_pages,post['url'],links[0]
     
