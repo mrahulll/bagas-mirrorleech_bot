@@ -166,9 +166,9 @@ help_string_telegraph = f'''<br>
 <b>/{BotCommands.StatsCommand}</b>: Menampilkan Waktu aktif Bot
 '''
 help = Telegraph(access_token=telegraph_token).create_page(
-        title='List Perintah Bot Sep 21 Publik',
-        author_name='Bot Sep 21 Publik - [No Bokep]',
-        author_url='https://t.me/sepmirrorleech21_bot',
+        title='Daftar Comand Bagas Bot Mirror & Leech',
+        author_name='Bagas Bot Mirror & Leech',
+        author_url='https://t.me/uzumaki_naruto4backup',
         html_content=help_string_telegraph,
     )["path"]
 
