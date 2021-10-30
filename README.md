@@ -1,7 +1,7 @@
 ```diff 
 - [ MAYBE UPDATE & ADD MORE MODULE ]
 ```
-[![Bagas Mirror&Leech Bot](https://telegra.ph/file/1d77962382170772a14d1.jpg)](https://t.me/sepmirrorleech21_bot)
+[![Bagas Mirror&Leech Bot](https://telegra.ph/file/5682c52bcc318954ab77f.jpg)](https://t.me/uzumaki_naruto4backup)
 
 # Bagas Mirror&Leech Bot
 ![GitHub Repo stars](https://img.shields.io/github/stars/breakdowns/slam-mirrorbot?color=blue&style=flat)
